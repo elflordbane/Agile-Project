@@ -1,6 +1,7 @@
 # Agile-Project
 
 
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 
@@ -19,8 +20,6 @@ How do I approach developing programs? What agile processes do I hope to incorpo
     effort into it.
 
 
-
-
 What does it mean to be a good team member in software development?
 
-  Do your part because others are depending on you.  Be transparent when you are facing obstacles.  
+    Do your part because others are depending on you. Be transparent when you are facing obstacles.
